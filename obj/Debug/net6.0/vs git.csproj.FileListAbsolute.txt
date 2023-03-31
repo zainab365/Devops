@@ -1,0 +1,31 @@
+E:\vs git\bin\Debug\net6.0\appsettings.Development.json
+E:\vs git\bin\Debug\net6.0\appsettings.json
+E:\vs git\bin\Debug\net6.0\vs git.staticwebassets.runtime.json
+E:\vs git\bin\Debug\net6.0\vs git.exe
+E:\vs git\bin\Debug\net6.0\vs git.deps.json
+E:\vs git\bin\Debug\net6.0\vs git.runtimeconfig.json
+E:\vs git\bin\Debug\net6.0\vs git.dll
+E:\vs git\bin\Debug\net6.0\vs git.pdb
+E:\vs git\obj\Debug\net6.0\vs git.csproj.AssemblyReference.cache
+E:\vs git\obj\Debug\net6.0\vs git.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs git\obj\Debug\net6.0\vs git.AssemblyInfoInputs.cache
+E:\vs git\obj\Debug\net6.0\vs git.AssemblyInfo.cs
+E:\vs git\obj\Debug\net6.0\vs git.csproj.CoreCompileInputs.cache
+E:\vs git\obj\Debug\net6.0\vs git.MvcApplicationPartsAssemblyInfo.cache
+E:\vs git\obj\Debug\net6.0\vs git.RazorAssemblyInfo.cache
+E:\vs git\obj\Debug\net6.0\vs git.RazorAssemblyInfo.cs
+E:\vs git\obj\Debug\net6.0\staticwebassets\msbuild.vs git.Microsoft.AspNetCore.StaticWebAssets.props
+E:\vs git\obj\Debug\net6.0\staticwebassets\msbuild.build.vs git.props
+E:\vs git\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vs git.props
+E:\vs git\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vs git.props
+E:\vs git\obj\Debug\net6.0\staticwebassets.pack.json
+E:\vs git\obj\Debug\net6.0\staticwebassets.build.json
+E:\vs git\obj\Debug\net6.0\staticwebassets.development.json
+E:\vs git\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\vs git\obj\Debug\net6.0\scopedcss\bundle\vs git.styles.css
+E:\vs git\obj\Debug\net6.0\scopedcss\projectbundle\vs git.bundle.scp.css
+E:\vs git\obj\Debug\net6.0\vs git.dll
+E:\vs git\obj\Debug\net6.0\refint\vs git.dll
+E:\vs git\obj\Debug\net6.0\vs git.pdb
+E:\vs git\obj\Debug\net6.0\vs git.genruntimeconfig.cache
+E:\vs git\obj\Debug\net6.0\ref\vs git.dll
